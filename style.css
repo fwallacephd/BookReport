@@ -1,0 +1,55 @@
+/*font-family: 'Roboto Slab', serif;
+font-family: 'Raleway', sans-serif;*/
+
+body {
+  font-family: 'Roboto Slab', serif;
+};
+
+.bannerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.information {
+  border-bottom: 8px solid red;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.fontchange, .list {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.genre, .character, .marginalized, .changes {
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+}
+
+.footer {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.genreanswer, .characteranswer, .table, .list {
+  border-bottom: 8px solid red;
+}
+
+
+tr {
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
